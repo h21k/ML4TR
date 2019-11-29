@@ -24,9 +24,17 @@ TBD
 
 #### Convolutional Neural Networks (CNNs)
 
-#### Transformer Models
+#### Transformer Models 
 
-- BERT
+- BERT (Google)
+- SciBERT ()
+- BioBERT ()
+- DistillBERT (HuggingFace)
+- XLNET (Google Brain)
+
+- ELMO (AI2)
+
+- ERNIE (Baidu) 
 
 
 

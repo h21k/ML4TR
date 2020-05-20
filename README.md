@@ -3,7 +3,7 @@ Machine Learning 4 Trial Registries
 
 This repository lists the Jupyter Notebooks used on Google Colab for the following article in The Journal of
 
-# Machine Learning Methods for Creating and Updading Clinical Trial Registries
+# Machine Learning Methods for Creating and Updating Clinical Trial Registries
 
 Authors:<br> 
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
@@ -12,12 +12,12 @@ Authors:<br>
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) UCL Institute of Education, University College London, London, UK<br>
 [Byron C Wallace](http://www.byronwallace.com/) College of Computer and Information Science, Northeastern University, Boston, USA<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>
-Rachel Marshall
+
 ## Structure of the repository
 
 ### Data 
 
-TBD
+Hosted on Google Drive and Google Cloud Buckets accessible here: TBD
 
 ### Machine Learning Methods
 

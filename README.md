@@ -8,10 +8,11 @@ This repository lists the Jupyter Notebooks used on Google Colab for the followi
 Authors:<br> 
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
 [Anna Noel-Storr](https://www.rdm.ox.ac.uk/people/anna-noel-storr) Radcliffe Department of Medicine, Medical Sciences Division, University of Oxford, Oxford, UK<br>
+[Rachel Marshall](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) Cochrane, London, UK<br>
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) UCL Institute of Education, University College London, London, UK<br>
 [Byron C Wallace](http://www.byronwallace.com/) College of Computer and Information Science, Northeastern University, Boston, USA<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>
-
+Rachel Marshall
 ## Structure of the repository
 
 ### Data 
@@ -27,15 +28,8 @@ TBD
 #### Transformer Models 
 
 - BERT (Google)
-- SciBERT ()
-- BioBERT ()
-- DistillBERT (HuggingFace)
-- XLNET (Google Brain)
-
-- ELMO (AI2)
-
-- ERNIE (Baidu) 
-
+- SciBERT (Huggingface + Allen.AI weights)
+- BioBERT (Huggingface) !Excluded for the moment!
 
 
 TBD:

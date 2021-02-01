@@ -1,5 +1,5 @@
 # ML4TR
-Machine Learning 4 Trial Registries
+Machine Learning 4 Trial Registries - Repo update on paper release
 
 This repository lists the Jupyter Notebooks used on Google Colab for the following article in The Journal of
 

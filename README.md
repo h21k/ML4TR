@@ -24,7 +24,7 @@ Currently the data can not be made available here. Please contact us for individ
 ### Machine Learning Methods
 The following models have been used with this study:
 
-#### Support Vector Machines (SVMs)
+#### 'Support Vector Machines (SVMs)'
 
 #### Convolutional Neural Networks (CNNs)
 
@@ -45,7 +45,3 @@ Structure:<br>
 5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)<br>
 6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)<br>
 
-
-TBD:
-The Systems used and evaluated in this study can be found here:<br> 
-[RobotReviewer User Study](https://github.com/h21k/robotreviewer3/tree/ux)

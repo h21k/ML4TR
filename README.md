@@ -24,24 +24,12 @@ Currently the data can not be made available here. Please contact us for individ
 ### Machine Learning Methods
 The following models have been used with this study:
 
-#### 'Support Vector Machines (SVMs)'
+#### `Support Vector Machines (SVMs)`
 
-#### Convolutional Neural Networks (CNNs)
+#### `Convolutional Neural Networks (CNNs)`
 
-#### Transformer Models 
+#### `Transformer Models`
 
 - BERT (Google)
 - SciBERT (Huggingface + Allen.AI weights)
 - BioBERT (Huggingface) !Excluded for the moment!
-
-
-TBD:
-Jupyter Notebook: Analysis.ipynb<br>
-Structure:<br>  
-1. `Main Analysis` (distribution of the data, Wilcoxon significance tests, boxplots, scatterplots)<br>
-2. `Descriptives` (mean, sd etc of timing data)<br>
-3. `Tukey Ladder of Powers` (data transformation and plots)<br>
-4. `Linear Mixed Effects Model Analysis` (primary and auxiluiary model analysis)<br>
-5. `Reviewer Judgments & Annoations Analysis` (descriptives, self-reported characteristics, agreement data, annotation data)<br>
-6. `Questionnaire Analysis` (likert scale analysis, System Usability Score (SUS) evaluation)<br>
-

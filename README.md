@@ -22,7 +22,7 @@ Authors:<br>
 Currently the data can not be made available here. Please contact us for individual requests.
 
 ### Machine Learning Methods
-The following models have been used with this study:
+The following methods have been used with this study:
 
 #### Support Vector Machines (SVMs)
 
@@ -38,3 +38,7 @@ The following models have been used with this study:
 - `BERT PyTorch` (Google, Huggingface) - with max token length of 512 
 - `SciBERT PyTorch` (Huggingface + Allen.AI weights) - with max token length of 512
 - `BioBERT PyTorch` (Huggingface) `Excluded for the moment!`
+
+#### Fine-Tuned Transformer Model avilability
+
+All transformer models will be made available on the [Huggingface Repository](https://huggingface.co/models) once the article has been published.

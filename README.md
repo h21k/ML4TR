@@ -8,10 +8,10 @@ This repository lists the Jupyter Notebooks used on Google Colab for the followi
 Authors:<br> 
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
 [Anna Noel-Storr](https://www.rdm.ox.ac.uk/people/anna-noel-storr) Radcliffe Department of Medicine, Medical Sciences Division, University of Oxford, Oxford, UK<br>
-[Fenton, Candida](https://www.ed.ac.uk/profile/candida-fenton) University of Edinburgh, Cochrane Vascular Group; Usher Institute
-[Cheyne, Joshua](https://www.gla.ac.uk/researchinstitutes/icams/staff/index.html/staffcontact/person/4edce9ec829f) University of Glasgow, Institute of Cardiovascular & Medical Sciences
-[Stovold, Elizabeth](https://www.sgul.ac.uk/profiles/elizabeth-stovold) St George’s, University of London, Cochrane Information Specialist, Cochrane Airways Group
-[Hampson, Lynn] University of Liverpool, Institute of Life Course and Medical Sciences
+[Fenton, Candida](https://www.ed.ac.uk/profile/candida-fenton) University of Edinburgh, Cochrane Vascular Group; Usher Institute<br>
+[Cheyne, Joshua](https://www.gla.ac.uk/researchinstitutes/icams/staff/index.html/staffcontact/person/4edce9ec829f) University of Glasgow, Institute of Cardiovascular & Medical Sciences<br>
+[Stovold, Elizabeth](https://www.sgul.ac.uk/profiles/elizabeth-stovold) St George’s, University of London, Cochrane Information Specialist, Cochrane Airways Group<br>
+[Hampson, Lynn] University of Liverpool, Institute of Life Course and Medical Sciences<br>
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) UCL Institute of Education, University College London, London, UK<br>
 [Byron C Wallace](http://www.byronwallace.com/) College of Computer and Information Science, Northeastern University, Boston, USA<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>

@@ -26,7 +26,11 @@ The following models have been used with this study:
 
 #### Support Vector Machines (SVMs)
 
+- `SVM` (for each trial register with hyperparaeters set according to [previous work](https://kclpure.kcl.ac.uk/portal/files/86954073/Marshall_et_al_2018_Research_Synthesis_Methods.pdf)
+
 #### Convolutional Neural Networks (CNNs)
+
+- `CNNs` (for each trial register with hyperparaeters set according to [previous work](https://kclpure.kcl.ac.uk/portal/files/86954073/Marshall_et_al_2018_Research_Synthesis_Methods.pdf)
 
 #### Transformer Models
 

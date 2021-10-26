@@ -1,7 +1,7 @@
 # ML4TR
 Machine Learning 4 Trial Registries
 
-This repository lists the Jupyter Notebooks used on Google Colab for the following article in The Journal of
+This repository lists the Jupyter Notebooks used on Google Colab for the following article submitted to [JAMIA Open](https://academic.oup.com/jamiaopen)
 
 # Machine learning Methods for Creating and Updating Registers of Randomized Controlled Trials
 

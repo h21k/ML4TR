@@ -24,12 +24,13 @@ Currently the data can not be made available here. Please contact us for individ
 ### Machine Learning Methods
 The following models have been used with this study:
 
-#### `Support Vector Machines (SVMs)`
+#### Support Vector Machines (SVMs)
 
-#### `Convolutional Neural Networks (CNNs)`
+#### Convolutional Neural Networks (CNNs)
 
-#### `Transformer Models`
+#### Transformer Models
 
-- BERT (Google)
-- SciBERT (Huggingface + Allen.AI weights)
-- BioBERT (Huggingface) !Excluded for the moment!
+- `BERT Tensorflow` (Google) - with max token length of 128 (Google)
+- `BERT PyTorch` (Google, Huggingface) - with max token length of 512 (Google)
+- `SciBERT PyTorch` (Huggingface + Allen.AI weights)
+- `BioBERT PyTorch` (Huggingface) `Excluded for the moment!`

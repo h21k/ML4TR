@@ -41,4 +41,4 @@ The following methods have been used with this study:
 
 #### Fine-Tuned Transformer Model avilability
 
-All transformer models will be made available on the [Huggingface Repository](https://huggingface.co/models) once the article has been published.
+- All transformer models will be made available on the [Huggingface Repository](https://huggingface.co/models) once the article has been published.

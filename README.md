@@ -1,14 +1,17 @@
 # ML4TR
-Machine Learning 4 Trial Registries - Repo update on paper release
+Machine Learning 4 Trial Registries
 
 This repository lists the Jupyter Notebooks used on Google Colab for the following article in The Journal of
 
-# Machine Learning Methods for Creating and Updating Clinical Trial Registries
+# Machine learning Methods for Creating and Updating Registers of Randomized Controlled Trials
 
 Authors:<br> 
 [Frank Soboczenski](https://h21k.github.io/) School of Population Health and Life Sciences, King's College London, London, UK<br>
 [Anna Noel-Storr](https://www.rdm.ox.ac.uk/people/anna-noel-storr) Radcliffe Department of Medicine, Medical Sciences Division, University of Oxford, Oxford, UK<br>
-[Rachel Marshall](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) Cochrane, London, UK<br>
+[Fenton, Candida](https://www.ed.ac.uk/profile/candida-fenton) University of Edinburgh, Cochrane Vascular Group; Usher Institute
+[Cheyne, Joshua](https://www.gla.ac.uk/researchinstitutes/icams/staff/index.html/staffcontact/person/4edce9ec829f) University of Glasgow, Institute of Cardiovascular & Medical Sciences
+[Stovold, Elizabeth](https://www.sgul.ac.uk/profiles/elizabeth-stovold) St George’s, University of London, Cochrane Information Specialist, Cochrane Airways Group
+[Hampson, Lynn] University of Liverpool, Institute of Life Course and Medical Sciences
 [James Thomas](https://iris.ucl.ac.uk/iris/browse/profile?upi=JTHOA32) UCL Institute of Education, University College London, London, UK<br>
 [Byron C Wallace](http://www.byronwallace.com/) College of Computer and Information Science, Northeastern University, Boston, USA<br>
 [Iain J Marshall](https://kclpure.kcl.ac.uk/portal/iain.marshall.html) School of Population Health and Life Sciences, King's College London, London, UK<br>
@@ -16,10 +19,10 @@ Authors:<br>
 ## Structure of the repository
 
 ### Data 
-
-Hosted on Google Drive and Google Cloud Buckets accessible here: TBD
+Currently the data can not be made available here. Please contact us for individual requests.
 
 ### Machine Learning Methods
+The following models have been used with this study:
 
 #### Support Vector Machines (SVMs)
 

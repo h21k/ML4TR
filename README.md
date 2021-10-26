@@ -30,7 +30,7 @@ The following models have been used with this study:
 
 #### Transformer Models
 
-- `BERT Tensorflow` (Google) - with max token length of 128 (Google)
-- `BERT PyTorch` (Google, Huggingface) - with max token length of 512 (Google)
-- `SciBERT PyTorch` (Huggingface + Allen.AI weights)
+- `BERT Tensorflow` (Google) - with max token length of 128 
+- `BERT PyTorch` (Google, Huggingface) - with max token length of 512 
+- `SciBERT PyTorch` (Huggingface + Allen.AI weights) - with max token length of 512
 - `BioBERT PyTorch` (Huggingface) `Excluded for the moment!`
